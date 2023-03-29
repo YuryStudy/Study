@@ -8,6 +8,10 @@ public class Car {
     public String Manufacture ;
     public String Model ;
     public String Year_Product;
-    public Car() {} // пустой конструктор
+    public Car (String P_Manufacture, String P_Model)  {
+        this.Manufacture = P_Manufacture;
+        this.Model = P_Model;
+    }
+
 
 }
