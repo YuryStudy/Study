@@ -5,4 +5,10 @@ package ru.javalang.module06.tasks.t01;
  */
 
 public class Person {
+    public String First_Name ;
+    public String Middle_Name ;
+    public String Last_Name ;
+    public String Gender;
+    public String Date_Birthday ;
+    public String Adress ;
 }

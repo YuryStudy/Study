@@ -10,7 +10,7 @@ public class Sample602 {
 
     private int y = 71; // переменная экземпляра класса
 
-    public final int CURRENT_YEAR = 2022; // константа
+
 
     static String version = "Java SE 17"; // переменная класса
 
