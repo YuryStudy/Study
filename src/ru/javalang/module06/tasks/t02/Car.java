@@ -8,5 +8,6 @@ public class Car {
     public String Manufacture ;
     public String Model ;
     public String Year_Product;
+    public Car() {} // пустой конструктор
 
 }
